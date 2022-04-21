@@ -47,7 +47,7 @@ require([
           style: "cards",
           layerInfos: [{
             layer: featureLayer,
-            title: "Civilian Engagements"
+            title: "G.D.P. in $ USD"
           }]
          }); 
        
